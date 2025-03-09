@@ -1,0 +1,28 @@
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\bin\Debug\net8.0\Welcome.exe
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\bin\Debug\net8.0\Welcome.deps.json
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\bin\Debug\net8.0\Welcome.dll
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\bin\Debug\net8.0\Welcome.pdb
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.dll
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.pdb
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+C:\Users\student\Desktop\39\PS_39_Kristian\Welcome\obj\Debug\net8.0\ref\Welcome.dll
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\bin\Debug\net8.0\Welcome.exe
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\bin\Debug\net8.0\Welcome.deps.json
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\bin\Debug\net8.0\Welcome.dll
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\bin\Debug\net8.0\Welcome.pdb
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.dll
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.pdb
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+D:\Kris\TU Sofia\PS\PS_39_Kristian\Welcome\obj\Debug\net8.0\ref\Welcome.dll
