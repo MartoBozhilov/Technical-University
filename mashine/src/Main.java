@@ -5,6 +5,6 @@ public class Main {
         int[] t2 = {5, 9, 2, 5, 3, 10, 13, 9, 7, 10}; // Машина 2
         int[][] table = {t1, t2};
 
-        JohnsonAlgorithmForMachine.printJohnsonAlgorithmSimple(table);
+        JohnsonAlgorithmForMachine.printJohnsonAlgorithm(table);
     }
 }

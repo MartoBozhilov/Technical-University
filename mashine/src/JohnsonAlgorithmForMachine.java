@@ -11,7 +11,7 @@ public class JohnsonAlgorithmForMachine {
     static int n = 0, left = 0, right = 0;
     static List<Integer> remaining = new ArrayList<>();
 
-    public static void printJohnsonAlgorithmSimple(int[][] table) throws InterruptedException {
+    public static void printJohnsonAlgorithm(int[][] table) throws InterruptedException {
 
         timeTable = table;
         n = timeTable[0].length;
